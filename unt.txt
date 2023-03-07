@@ -1,0 +1,5 @@
+GET /menus
+GET /menus/:id
+POST /menus/
+PATCH /menus/:id
+DELETE /menus/:id
